@@ -10,7 +10,7 @@ body {
     justify-content: center;
 }
 .chamada-texto{
-    margin-right: 5%;
+    margin-right: 8%;
 }
 img{
     height: 200px;
@@ -23,5 +23,5 @@ img{
 .categoria {
    padding-left: 20px;
    padding-right: 20px;
-   margin-top: 50px;
+   margin-top: 30px;
 }
