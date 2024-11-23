@@ -14,9 +14,7 @@ body {
 .chamada-texto{
     margin-right: 5%;
 }
-img{
-    height: 200px;
-}
+
 .categoria-videos{
     display: flex;
     overflow-x: auto;
@@ -36,4 +34,5 @@ p{
 
 .categoria-videos img {
     opacity: 0.5;
+    height: 200px;
 }
