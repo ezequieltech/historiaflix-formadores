@@ -1,5 +1,5 @@
 body {
-    color: #eeebe8;
+    color: white;
     background-color: #e6bb47;
     font-family: "Antic Slab", serif;
     font-weight: bold;
@@ -10,7 +10,7 @@ header {
     border-bottom: solid 2px #ca9c11 ;
     padding: 2px;
     font-size: 22px;
-    color: rgb(245, 246, 247);
+    color: white;
 }
 
 .chamada{
@@ -45,11 +45,11 @@ p{
 }
 
 .categoria-videos img {
-    opacity: 0.0;
+    opacity: 0.7;
     height: 200px;
 }
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 1px solid rgb(252, 252, 252);
+    border: 1px solid white;
 }
