@@ -5,6 +5,14 @@ body {
     font-weight: bold;
     margin-bottom: 100px;
 }
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
+
 .chamada{
     background-color: #ca9c11;
     padding-top: 40px;
@@ -12,6 +20,7 @@ body {
     display: flex;
     justify-content: center;
 }
+
 .chamada-texto{
     margin-right: 5%;
 }
