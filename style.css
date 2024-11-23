@@ -1,6 +1,6 @@
 body {
     color: white;
-    background-color: #e6bb47;
+    background-color: black;
     font-family: "Antic Slab", serif;
     font-weight: bold;
     margin-bottom: 100px;
@@ -10,7 +10,7 @@ header {
     border-bottom: solid 2px #ca9c11 ;
     padding: 2px;
     font-size: 22px;
-    color: solid white;
+    color: white;
 }
 
 .chamada{
