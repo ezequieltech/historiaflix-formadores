@@ -16,6 +16,13 @@ body {
     margin-right: 5%;
 }
 
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+
 .categoria-videos{
     display: flex;
     overflow-x: auto;
@@ -25,12 +32,6 @@ body {
    padding-left: 20px;
    padding-right: 20px;
    margin-top: 30px;
-}
-h1{
-    font-size: 40px;
-}
-p{
-    font-size: 20px;
 }
 
 .categoria-videos img {
